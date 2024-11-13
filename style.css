@@ -1,0 +1,203 @@
+html {
+    background-color: F1E7F9
+}
+
+.container {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.intro {
+    background-image: url(главная.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-bottom: 330px;
+}
+.intro h1 {
+    font-family: "Brygada 1918";
+    font-size: 64px;
+    font-weight: 600;
+    margin-top: 140px;
+    margin-bottom: 0px;
+}
+.intro p {
+    margin-top: 0px;
+}
+
+.header {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background: rgba(0, 0, 0, 0.47);
+}
+.header a {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.header ul {
+    list-style-type: none; 
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 475px;
+    padding-left: 0px;
+}
+
+.mbody {
+    color: rgb(41, 32, 72);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#about {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 127px;
+}
+
+.impimg {
+    width: 952px;
+    height: 760px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 36px;
+}
+
+#important h2 {
+    margin-bottom: 36px;
+}
+#important {
+    margin-bottom: 106px;
+}
+
+#hobby ul{
+    list-style-type: none;
+}
+
+.koni h2 {
+    padding-bottom: 38px;
+}
+.kimg {
+    margin-top: 29px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 118px;
+}
+
+.drawing {
+    padding-top: 38px;
+    display: flex;
+    justify-content: flex-start;
+    margin-right: auto;
+    margin-bottom: 80px;
+}
+
+.drawing p {
+    height: 455px;
+    margin-right: 200px;
+}
+
+.nails h2 {
+    padding-bottom: 38px;
+}
+.nimg {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 118px;
+}
+
+.cars h2 {
+    padding-bottom: 38px;
+}
+.cimg {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 118px;
+}
+
+.cooking h2 {
+    text-align: center;
+    padding-bottom: 38px;
+}
+
+.cookimg {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 118px;
+}
+
+.timg {
+    width: 482px;
+    height: 407px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 38px;
+}
+.travel { 
+    display: flex;
+    align-items: center;
+    margin-bottom: 120px;
+}
+.travel p {
+    width: 432px;
+    height: 336px;
+    margin-left: 65px;
+}
+
+.foto h2 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+.fimg {
+    display: flex;
+    justify-content: space-around;   
+    margin-bottom: 40px;
+}
+.foto {
+    margin-bottom: 48px;
+}
+
+.bottlink hr {
+    border: 2px solid rgb(0, 0, 0);
+}
+.bottlink p {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.bottlink img {
+    margin-right: 11px;
+}
+
+.bottlink a {
+    margin-left: 7px;
+    color: rgb(0, 0, 0);
+}
+
+.bottlink a:hover {
+    color: rgb(143, 82, 150);
+}
